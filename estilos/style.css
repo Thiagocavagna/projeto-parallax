@@ -10,6 +10,7 @@
     padding: 0px;
     margin: 0px;
     font-family: var(--fonte1), serif;
+    color: rgb(46, 46, 46);
 }
 
 html, body {
@@ -20,6 +21,7 @@ html, body {
 h1 {
     font-size: 1.8em;
     font-weight: bolder;
+    font-variant: small-caps;
     text-align: center;
     padding: 10px;
 }
@@ -39,15 +41,16 @@ section p {
     width: 90%;
     margin: auto;
     text-align: justify;
+    line-height: 1.5em;
 }
 
 section.normal {
-    background-color: white;
+    background-color: rgb(236, 236, 236);
 
 }
 
 .normal > h2 {
-    padding-bottom: 15px;
+    padding-bottom: 20px;
 }
 
 section.imagem#img01 {
