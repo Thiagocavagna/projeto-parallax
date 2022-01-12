@@ -94,8 +94,9 @@ section.principal {
 
 section.principal > h1 {
     background-color: rgba(0, 0, 0, 0.63);
+    font-size: 2.7vw;
     padding: 15px;
-    width: 380px;
+    width: 30vw;
     margin: auto;
     color: white;
 
